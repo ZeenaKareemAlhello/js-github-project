@@ -11,3 +11,10 @@
 ul {
   list-style: none;
 }
+.scroll
+{
+  height:200px; 
+  width:50%;
+overflow:hidden;
+ overflow-y:scroll;
+}
